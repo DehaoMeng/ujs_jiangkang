@@ -19,7 +19,7 @@ from msedge.selenium_tools import Edge
 # 实现无可视化界面
 from selenium.webdriver.edge.options import Options
 #
-
+#超级鹰的调用。
 class Chaojiying_Client(object):
 
     def __init__(self, username, password, soft_id):
